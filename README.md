@@ -3,3 +3,9 @@ This SQL project showcases a comprehensive database design and development the p
 # INDIA GENERAL ELECTION RESULT ANALYSIS 2024
 ## Project Objective
 In this Data Analysis SQL Project you'll learn to analyze the 2024 India General Elections results using any of the following databases: MySQL, MS SQL Server, PostgreSQL, or Oracle.
+## Datasets Used 
+- <a href="https://github.com/Surya-Akhil/SQL-Data-Analysis-/blob/main/Constituencywise_details.csv">Dataset</a>
+- <a href="https://github.com/Surya-Akhil/SQL-Data-Analysis-/blob/main/Partywise_results.csv">Dataset</a>
+- <a href="https://github.com/Surya-Akhil/SQL-Data-Analysis-/blob/main/States.csv">Dataset</a>
+- <a href="https://github.com/Surya-Akhil/SQL-Data-Analysis-/blob/main/constituencywise_results.csv">Dataset</a>
+- <a href="https://github.com/Surya-Akhil/SQL-Data-Analysis-/blob/main/statewise_results.csv">Dataset</a>
