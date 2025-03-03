@@ -12,9 +12,13 @@ In this Data Analysis SQL Project you'll learn to analyze the 2024 India General
 ## Problem Statemen
 Total Seats
 What is the total number of seats available for elections in each state
+
 Total Seats Won by NDA Allianz
+
 Seats Won by NDA Allianz Parties
+
 Total Seats Won by I.N.D.I.A. Allianz
+
 Seats Won by I.N.D.I.A. Allianz Parties
 Add new column field in table partywise_results to get the Party Allianz as NDA, I.N.D.I.A and OTHER
 Which party alliance (NDA, I.N.D.I.A, or OTHER) won the most seats across all states
